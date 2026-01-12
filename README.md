@@ -3,9 +3,13 @@
 <h2>Mechanical Engineering Projects:</h2>
 
 - <b>[Inverted Reaction Pendulum](https://github.com/IamWright1/Inverted-Reaction-Pendulum)</b>
+  - Status: In Progress
 - <b>[Lift Platform Challenge](https://github.com/IamWright1/Lift-Platform-Challenge)</b>
+  - Status: Completed in December 2025
 - <b>[Project Adaptable](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b>
+  - Status: Completed in May 2025
 - <b>[Intercepter Based C-UAS Net Capturing Device](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b>
+  - Status: Completed in August 2024
 
 <h2> Connect with me:</h2>
 
