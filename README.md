@@ -6,7 +6,7 @@
   - Status: In Progress
 - <b>[Lift Platform Challenge](https://github.com/IamWright1/Lift-Platform-Challenge)</b>
   - Status: Completed in December 2025
-- <b>[Project Adaptable](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b>
+- <b>[Project Adaptable](https://github.com/IamWright1/Project-Adaptable)</b>
   - Status: Completed in May 2025
 - <b>[Intercepter Based C-UAS Net Capturing Device](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b>
   - Status: Completed in August 2024
