@@ -2,7 +2,7 @@
 
 <h2>Further About me</h2>
 
-Hi as you know now my name is Ian Wright and I am currently pursuing a Bachelors Degreee in Mechanical Engineering while also pursuing a Minor in Mathematics. I am currently interested in working with UAV's and Robotics as I see these to platforms having the most improvement to technology. I pursuing my interest by currently getting into Arduinos and Rasberry Pis to deepen my knowledge in circuits and electronics that classes cant teach. I am also currently working in Dr.Goels [Estimation, Control, and Learning Laboratory(ECLL)](https://estimation-control-learning-laboratory.github.io/) where I am deepening my knowledge in controls starting with working on an [Inverted Reaction Pendulum](https://github.com/IamWright1/Inverted-Reaction-Pendulum) project. Here is my [Resume](https://github.com/IamWright1/IamWright1/blob/main/All%20Time%20resume.pdf) with everything I have done, and Feel free to contact me throught my [email](mailto:iwright1@umbc.edu).
+Hi, as you know now my name is Ian Wright and I am currently pursuing a Bachelor's Degree in Mechanical Engineering while also pursuing a Minor in Mathematics. I am currently interested in working with UAV's and Robotics as I see these to platforms having the most improvement to technology. I am pursuing my interest by currently getting into Arduinos and Raspberry Pi to deepen my knowledge in circuits and electronics that classes cant teach. I am also currently working in Dr. Goels [Estimation, Control, and Learning Laboratory(ECLL)](https://estimation-control-learning-laboratory.github.io/) where I am deepening my knowledge in controls starting with working on an [Inverted Reaction Pendulum](https://github.com/IamWright1/Inverted-Reaction-Pendulum) project. Here is my [Resume](https://github.com/IamWright1/IamWright1/blob/main/All%20Time%20resume.pdf) with everything I have done, and Feel free to contact me through my [email](mailto:iwright1@umbc.edu).
 
   
 <h2>Mechanical Engineering Projects:</h2>
@@ -13,7 +13,7 @@ Hi as you know now my name is Ian Wright and I am currently pursuing a Bachelors
   - Status: Completed in December 2025
 - <b>[Project Adaptable](https://github.com/IamWright1/Project-Adaptable)</b>
   - Status: Completed in May 2025
-- <b>[Intercepter Based C-UAS Net Capturing Device](https://github.com/IamWright1/Net-Capturing-Device)</b>
+- <b>[Interceptor Based C-UAS Net Capturing Device](https://github.com/IamWright1/Net-Capturing-Device)</b>
   - Status: Completed in August 2024
 
 <h2> Connect with me:</h2>
