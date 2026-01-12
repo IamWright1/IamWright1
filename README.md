@@ -3,7 +3,7 @@
 <h2>Mechanical Engineering Projects:</h2>
 
 - <b>[Inverted Reaction Pendulum](https://github.com/IamWright1/Inverted-Reaction-Pendulum)</b>
-- <b>[Lift Platform Challenge](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b>
+- <b>[Lift Platform Challenge](https://github.com/IamWright1/Lift-Platform-Challenge)</b>
 - <b>[Project Adaptable](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b>
 - <b>[Intercepter Based C-UAS Net Capturing Device](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b>
 
