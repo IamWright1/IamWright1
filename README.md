@@ -11,9 +11,9 @@ Hi, as you know now my name is Ian Wright and I am currently pursuing a Bachelor
   - Status: In Progress
 - <b>[Lift Platform Challenge](https://github.com/IamWright1/Lift-Platform-Challenge)</b>
   - Status: Completed in December 2025
-- <b>[Project Adaptable]</b>
+- <b>Project Adaptable</b>
   - Status: Completed in May 2025
-- <b>[Interceptor Based C-UAS Net Capturing Device]</b>
+- <b>Interceptor Based C-UAS Net Capturing Device</b>
   - Status: Completed in August 2024
 
 <h2> Connect with me:</h2>
