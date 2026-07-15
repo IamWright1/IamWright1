@@ -8,7 +8,7 @@ Hi, my name is Ian Wright and I am currently pursuing a Bachelor's Degree in Mec
 <h2>Mechanical Engineering Projects:</h2>
 
 - <b>[Inverted Reaction Pendulum](https://github.com/IamWright1/Inverted-Reaction-Pendulum)</b>
-  - Status: In Progress
+  - Status: On Hold
 - <b>[Lift Platform Challenge](https://github.com/IamWright1/Lift-Platform-Challenge)</b>
   - Status: Completed in December 2025
 - <b>Project Adaptable</b>
